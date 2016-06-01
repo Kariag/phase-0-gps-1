@@ -6,3 +6,5 @@ _This is italic_
 [our github repo](https://github.com/Kariag/phase-0-gps-1/pull/1)
 
 ![our picture](https://github.com/Kariag/phase-0-gps-1/blob/master/screenshot.png)
+
+ch-ch-ch-changes
