@@ -5,4 +5,4 @@ _This is italic_
   end
 [our github repo](https://github.com/Kariag/phase-0-gps-1/pull/1)
 
-![alt text](https........)
+![our picture](https://github.com/Kariag/phase-0-gps-1/blob/master/screenshot.png)
