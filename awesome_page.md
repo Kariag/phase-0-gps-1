@@ -1,4 +1,4 @@
-** This is bold **
+**This is bold**
 _This is italic_
   def hello
     puts "hello world"
